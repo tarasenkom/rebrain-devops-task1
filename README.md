@@ -23,9 +23,9 @@
 
 
 - Скачать репозиторий:
-```bash 
+    ```bash 
 	git clone git@gitlab.com/pingnix/test 
-```
+    ```
 
 - Отредактировать `application.properties` файл, указав LDAP-сервер и сервер базы данных. 
 
